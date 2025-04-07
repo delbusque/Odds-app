@@ -1,0 +1,212 @@
+[
+{
+            "fixture": {
+                "id": 1331904,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-04-04T23:30:00+00:00",
+                "timestamp": 1743809400,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 7215,
+                    "name": "Estadio Ameliano Villeta",
+                    "city": "Villeta"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 250,
+                "name": "Division Profesional - Apertura",
+                "country": "Paraguay",
+                "logo": "https://media.api-sports.io/football/leagues/250.png",
+                "flag": "https://media.api-sports.io/flags/py.svg",
+                "season": 2025,
+                "round": "Apertura - 12",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 10487,
+                    "name": "Sportivo Ameliano",
+                    "logo": "https://media.api-sports.io/football/teams/10487.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1187,
+                    "name": "Sportivo Trinidense",
+                    "logo": "https://media.api-sports.io/football/teams/1187.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1359027,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-04-04T23:30:00+00:00",
+                "timestamp": 1743809400,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 254,
+                    "name": "Estádio do Vale",
+                    "city": "Novo Hamburgo, Rio Grande do Sul"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 740,
+                "name": "Brasileiro U20 A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/740.png",
+                "flag": "https://media.api-sports.io/flags/br.svg",
+                "season": 2025,
+                "round": "1st Phase - 4",
+                "standings": false
+            },
+            "teams": {
+                "home": {
+                    "id": 12962,
+                    "name": "Internacional U20",
+                    "logo": "https://media.api-sports.io/football/teams/12962.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 13020,
+                    "name": "Juventude U20",
+                    "logo": "https://media.api-sports.io/football/teams/13020.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1367506,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-04-04T23:30:00+00:00",
+                "timestamp": 1743809400,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Estadio Villa Alegre",
+                    "city": "Encarnación"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 251,
+                "name": "Division Intermedia",
+                "country": "Paraguay",
+                "logo": "https://media.api-sports.io/football/leagues/251.png",
+                "flag": "https://media.api-sports.io/flags/py.svg",
+                "season": 2025,
+                "round": "Regular Season - 2",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 23155,
+                    "name": "Encarnación",
+                    "logo": "https://media.api-sports.io/football/teams/23155.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 20786,
+                    "name": "Sportivo Carapeguá",
+                    "logo": "https://media.api-sports.io/football/teams/20786.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+]

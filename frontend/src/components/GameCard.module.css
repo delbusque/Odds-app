@@ -1,0 +1,37 @@
+.gameCard {
+  margin-bottom: 16px;
+  padding: 16px;
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.gameCardContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.gameCardTeam {
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.6;
+  color: #333;
+}
+
+.oddsContainer {
+  display: flex;
+  gap: 8px;
+}
+
+.oddBox {
+  background-color: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 8px 16px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333;
+}

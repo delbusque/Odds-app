@@ -1,0 +1,447 @@
+{
+    "get": "odds",
+    "parameters": {
+        "page": "2",
+        "bookmaker": "11",
+        "date": "2025-04-04",
+        "bet": "1"
+    },
+    "errors": [],
+    "results": 10,
+    "paging": {
+        "current": 2,
+        "total": 29
+    },
+    "response": [
+        {
+            "league": {
+                "id": 173,
+                "name": "Second League",
+                "country": "Bulgaria",
+                "logo": "https://media.api-sports.io/football/leagues/173.png",
+                "flag": "https://media.api-sports.io/flags/bg.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1207850,
+                "timezone": "UTC",
+                "date": "2025-04-04T14:00:00+00:00",
+                "timestamp": 1743775200
+            },
+            "update": "2025-04-04T04:01:20+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "9.00"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "3.95"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "1.36"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league": {
+                "id": 173,
+                "name": "Second League",
+                "country": "Bulgaria",
+                "logo": "https://media.api-sports.io/football/leagues/173.png",
+                "flag": "https://media.api-sports.io/flags/bg.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1207851,
+                "timezone": "UTC",
+                "date": "2025-04-04T14:00:00+00:00",
+                "timestamp": 1743775200
+            },
+            "update": "2025-04-04T04:01:20+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "1.46"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "3.72"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "6.88"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/89.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1210157,
+                "timezone": "UTC",
+                "date": "2025-04-04T18:00:00+00:00",
+                "timestamp": 1743789600
+            },
+            "update": "2025-04-04T04:01:17+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "1.56"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "4.55"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "4.99"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/89.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1210158,
+                "timezone": "UTC",
+                "date": "2025-04-04T18:00:00+00:00",
+                "timestamp": 1743789600
+            },
+            "update": "2025-04-04T04:01:17+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "2.98"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "3.54"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "2.26"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/89.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1210159,
+                "timezone": "UTC",
+                "date": "2025-04-04T18:00:00+00:00",
+                "timestamp": 1743789600
+            },
+            "update": "2025-04-04T04:01:17+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "1.23"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "7.20"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "9.15"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/89.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1210160,
+                "timezone": "UTC",
+                "date": "2025-04-04T18:00:00+00:00",
+                "timestamp": 1743789600
+            },
+            "update": "2025-04-04T04:01:17+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "4.94"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "4.45"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "1.58"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/89.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1210161,
+                "timezone": "UTC",
+                "date": "2025-04-04T18:00:00+00:00",
+                "timestamp": 1743789600
+            },
+            "update": "2025-04-04T04:01:17+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "3.00"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "3.46"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "2.28"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/89.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1210162,
+                "timezone": "UTC",
+                "date": "2025-04-04T18:00:00+00:00",
+                "timestamp": 1743789600
+            },
+            "update": "2025-04-04T04:01:17+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "1.99"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "4.05"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "3.20"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league": {
+                "id": 111,
+                "name": "FAW Championship",
+                "country": "Wales",
+                "logo": "https://media.api-sports.io/football/leagues/111.png",
+                "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1210995,
+                "timezone": "UTC",
+                "date": "2025-04-04T18:45:00+00:00",
+                "timestamp": 1743792300
+            },
+            "update": "2025-04-04T04:01:20+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "2.11"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "3.84"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "2.75"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "league": {
+                "id": 111,
+                "name": "FAW Championship",
+                "country": "Wales",
+                "logo": "https://media.api-sports.io/football/leagues/111.png",
+                "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+                "season": 2024
+            },
+            "fixture": {
+                "id": 1211088,
+                "timezone": "UTC",
+                "date": "2025-04-04T18:45:00+00:00",
+                "timestamp": 1743792300
+            },
+            "update": "2025-04-04T04:01:20+00:00",
+            "bookmakers": [
+                {
+                    "id": 11,
+                    "name": "1xBet",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "Match Winner",
+                            "values": [
+                                {
+                                    "value": "Home",
+                                    "odd": "1.76"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "3.95"
+                                },
+                                {
+                                    "value": "Away",
+                                    "odd": "3.60"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
